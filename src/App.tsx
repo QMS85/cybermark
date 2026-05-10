@@ -134,7 +134,7 @@ export default function App() {
             {isFullscreen ? <Minimize2 size={18} /> : <Maximize2 size={18} />}
           </button>
           <a 
-            href="https://github.com" 
+            href="https://github.com/QMS85/cybermark" 
             target="_blank" 
             rel="noreferrer"
             className="text-xs text-gray-500 hover:text-cyber-green font-mono mr-2 hidden sm:block"
